@@ -1,8 +1,0 @@
-#Ignore single file
-x.config 
-x.cofig
-
-# Ignore sensitive folders
-config/
-
-
