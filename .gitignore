@@ -1,0 +1,5 @@
+# Ignore sensitive folders
+config/
+
+#Ignore config files
+*.config 
